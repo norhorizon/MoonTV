@@ -6,6 +6,26 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
+     "wogg": {
+      "api": "https://www.wogg.xyz/api.php/provide/vod",
+      "name": "玩偶哥哥"
+    },
+     "tinghao": {
+      "api": "https://ztha.top/TVBox/thdjk.json",
+      "name": "挺好分享"
+    },
+    "longmen": {
+      "api": "http://api.lotics.com",
+      "name": "龙门影视"
+    },
+    "moyu": {
+      "api": "http://我不是.摸鱼儿.top",
+      "name": "摸鱼儿"
+    },
+    "hezimi": {
+      "api": "https://tvbox.cainisi.cf",
+      "name": "盒子迷"
+    },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
