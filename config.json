@@ -1,34 +1,6 @@
 {
   "cache_time": 7200,
   "api_site": {
-    "apibdzy": {
-      "api": "https://api.apibdzy.com/api.php/provide/vod",
-      "name": "百度云资源-4K",
-    },
-    "ukuapi": {
-      "api": "https://api.ukuapi.com/api.php/provide/vod   ",
-      "name": "U酷资源-4K",
-    },
-    "qilinzyz": {
-      "api": "https://www.qilinzyz.com/api.php/provide/vod",
-      "name": "麒麟资源-4K",
-       },
-    "fqzy": {
-      "api": "http://api.fqzy.cc/api.php/provide/vod",
-      "name": "番茄资源-4K/8K",
-    },
-    "wujinapi": {
-      "api": "https://api.wujinapi.com/api.php/provide/vod",
-      "name": "无尽资源-4K",
-    },
-    "hongniuzy": {
-      "api": "https://www.hongniuzy1.com/inc/api.php",
-      "name": "红牛资源-4K",
-    },
-    "8090zy": {
-      "api": "http://zy.yilans.net:8090/api.php/provide/vod",
-      "name": "8090资源-4K",
-    },   
     "dyttzy": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
