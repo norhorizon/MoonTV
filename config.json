@@ -2,21 +2,41 @@
   "cache_time": 7200,
   "api_site": {
 {
- "apibdzy": {
+  "apibdzy": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "name": "百度云资源-4K",
       "detail": "https://api.apibdzy.com"
+    },
+    "ukuapi": {
+      "api": "https://api.ukuapi.com/api.php/provide/vod",
+      "name": "U酷资源-4K",
+      "detail": "https://api.ukuapi.com"
     },
     "qilinzyz": {
       "api": "https://www.qilinzyz.com/api.php/provide/vod",
       "name": "麒麟资源-4K",
       "detail": "https://www.qilinzyz.com"
     },
+    "fqzy": {
+      "api": "http://api.fqzy.cc/api.php/provide/vod",
+      "name": "番茄资源-4K/8K",
+      "detail": "http://api.fqzy.cc"
+    },
     "wujinapi": {
       "api": "https://api.wujinapi.com/api.php/provide/vod",
       "name": "无尽资源-4K",
       "detail": "https://api.wujinapi.com"
     },
+    "hongniuzy": {
+      "api": "https://www.hongniuzy1.com/inc/api.php",
+      "name": "红牛资源-4K",
+      "detail": "https://www.hongniuzy1.com"
+    },
+    "8090zy": {
+      "api": "http://zy.yilans.net:8090/api.php/provide/vod",
+      "name": "8090资源-4K",
+      "detail": "http://zy.yilans.net:8090"
+    },   
     "360": {
     "api": "https://360zy.com/api.php/provide/vod/",
     "name": "360"
@@ -153,26 +173,6 @@
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源"
       "detail": "http://caiji.dyttzyapi.com"
-    },
-     "wogg": {
-      "api": "https://www.wogg.xyz/api.php/provide/vod",
-      "name": "玩偶哥哥"
-    },
-     "tinghao": {
-      "api": "https://ztha.top/TVBox/thdjk.json",
-      "name": "挺好分享"
-    },
-    "longmen": {
-      "api": "http://api.lotics.com",
-      "name": "龙门影视"
-    },
-    "moyu": {
-      "api": "http://我不是.摸鱼儿.top",
-      "name": "摸鱼儿"
-    },
-    "hezimi": {
-      "api": "https://tvbox.cainisi.cf",
-      "name": "盒子迷"
     },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
