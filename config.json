@@ -2,7 +2,22 @@
   "cache_time": 7200,
   "api_site": {
 {
-  "360": {
+ "apibdzy": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "name": "百度云资源-4K",
+      "detail": "https://api.apibdzy.com"
+    },
+    "qilinzyz": {
+      "api": "https://www.qilinzyz.com/api.php/provide/vod",
+      "name": "麒麟资源-4K",
+      "detail": "https://www.qilinzyz.com"
+    },
+    "wujinapi": {
+      "api": "https://api.wujinapi.com/api.php/provide/vod",
+      "name": "无尽资源-4K",
+      "detail": "https://api.wujinapi.com"
+    },
+    "360": {
     "api": "https://360zy.com/api.php/provide/vod/",
     "name": "360"
   },
